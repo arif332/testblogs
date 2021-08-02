@@ -4,7 +4,7 @@ description: "Kubernetes exam preparation tips"
 layout: post
 toc: true
 comments: true
-search_exclude: true
+search_exclude: false
 author: Arif Hossen
 categories: [kubernetes, certification]
 show_tags: true
