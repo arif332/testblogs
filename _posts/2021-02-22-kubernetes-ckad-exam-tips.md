@@ -1,5 +1,3 @@
-
-```
 ---
 title: "Certified Kubernetes Application Developer (CKAD) Exam Preparation Tips"
 description: "Kubernetes exam preparation tips"
@@ -11,7 +9,6 @@ author: Arif Hossen
 categories: [kubernetes, certification]
 show_tags: true
 ---
-```
 
 
 # Certified Kubernetes Application Developer (CKAD)
