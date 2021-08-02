@@ -1,0 +1,6 @@
+- [www.yahoo.com]
+- <yahoo.com>
+- abc.yahoo.com
+- "cdr.yahoo.com"
+- (www.yahoo.com/blog)
+- [abc](www.yahoo.com/blog)
